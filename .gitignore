@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets and local config. This project needs no keys; keep it that way.
+.env
+.env.*
