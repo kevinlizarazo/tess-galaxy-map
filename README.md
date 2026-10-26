@@ -1,6 +1,6 @@
 # TESS Galaxy Map
 
-Fly through planetary systems discovered by NASA's **Transiting Exoplanet Survey Satellite (TESS)** in your browser. The interface is modelled on the galaxy map in *Mass Effect*: start zoomed out over the Sun's neighbourhood, pick a star, fly to it, then drop into the system to watch its planets orbit and read their data.
+Fly through planetary systems discovered by NASA's **Transiting Exoplanet Survey Satellite (TESS)** in your browser. The interface is modelled on the galaxy map in *Mass Effect*: start zoomed out over the Sun's neighborhood, pick a star, fly to it, then drop into the system to watch its planets orbit and read their data.
 
 ![Galaxy view: TESS host stars around the Sun on a galactic-plane grid](docs/screenshots/galaxy.png)
 
